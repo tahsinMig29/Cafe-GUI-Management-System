@@ -1,0 +1,45 @@
+Order by anika:
+Cheesecake x2 = Tk 398.0
+Mocha x1 = Tk 359.0
+Double Beef Burger x1 = Tk 299.0
+Total: Tk 1056.0
+
+---------------------------
+Order by anika:
+Cheesecake x1 = Tk 199.0
+Mocha x2 = Tk 718.0
+Total: Tk 917.0
+
+---------------------------
+Order by anika:
+Mocha x2 = Tk 718.0
+Double Beef Burger x1 = Tk 299.0
+Cheesecake x1 = Tk 199.0
+Total: Tk 1216.0
+
+---------------------------
+Order by anika:
+Mocha x2 = Tk 718.0
+Total: Tk 718.0
+
+---------------------------
+Order by TAHSIN:
+Cheesecake x2 = Tk 398.0
+Double Beef Burger x2 = Tk 598.0
+Mocha x2 = Tk 718.0
+Total: Tk 1714.0
+
+---------------------------
+Order by AHNAF:
+Cheesecake x2 = Tk 398.0
+Mocha x1 = Tk 359.0
+Double Beef Burger x1 = Tk 299.0
+Total: Tk 1056.0
+
+---------------------------
+Order by TAHSIN:
+Cheesecake x1 = Tk 199.0
+Mocha x1 = Tk 359.0
+Total: Tk 558.0
+
+---------------------------
